@@ -33,4 +33,32 @@ section {
 section:nth-of-type(odd) {
     background-color: #f4f4f4;
 }
+#stock-dashboard {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
 
+#stock-dashboard h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#stock-dashboard p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#stock-dashboard a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#stock-dashboard a:hover {
+    background-color: #0056b3;
+}
