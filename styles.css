@@ -62,3 +62,33 @@ section:nth-of-type(odd) {
 #stock-dashboard a:hover {
     background-color: #0056b3;
 }
+
+#crypto-wallet {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
+
+#crypto-wallet h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#crypto-wallet p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#crypto-wallet a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#crypto-wallet a:hover {
+    background-color: #0056b3;
+}
